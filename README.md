@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi there, I'm Charles 👋
 
-<!--
-**charlesthorin/charlesthorin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Creative Developer | Indie Game Maker | Digital Alchemist
 
-Here are some ideas to get you started:
+I’m a developer driven by the desire to turn abstract ideas into interactive experiences. With a background in Web Development and a passion for World Building, I bridge the gap between clean code and artistic storytelling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Technical Stack
+
+* **Game Development:** Godot Engine (GDScript), Game Design, World Building
+* **Web Development:** Python (Flask), PHP (Symfony), JavaScript (React, Vite)
+* **Mobile (Current Focus):** Android Studio, Kotlin
+* **Creative Suite:** Digital Illustration, Video Editing (YouTube Content Creation)
+
+---
+
+### 🚀 Currently Exploring
+
+* **Learning:** Deep diving into **Mobile Development** with Android Studio.
+* **Goal 2026:** Being able to create apps on my own.
+* **Project:** Creating my **first commercial** game in **Godot**.
+
+---
+
+### 🤸‍♂️ Beyond the Code
+
+* **Calisthenics:** Bodyweight athlete for 3+ years. The discipline of the bar fuels the rigor of my learning journey.
+* **Content Creation:** I run a YouTube channel where I document my creative process and tech explorations.
+
+---
+
+### 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=charlesthorin&show_icons=true&theme=radical)
+
+---
+
+### ⛩️ Welcome to my universe
+[YouTube Channel](https://www.youtube.com/@CharlesInProgress)
+
