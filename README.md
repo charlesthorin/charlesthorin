@@ -31,7 +31,7 @@ I’m a developer driven by the desire to turn abstract ideas into interactive e
 ---
 
 ### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=charlesthorin&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=charlesinprogress&show_icons=true&theme=radical)
 
 ---
 
